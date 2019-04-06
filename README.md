@@ -21,7 +21,7 @@ I use the [editor on GitHub](https://github.com/RustyNails8/SAPonAIXandOracle/ed
 REM You can remove this once the WORDS.exe file is created
 g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
 `
-** Above should be chnaged TO Below : **
+** Above should be changed TO Below : **
 
 `REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
