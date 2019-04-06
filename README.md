@@ -21,9 +21,8 @@ I use the [editor on GitHub](https://github.com/RustyNails8/SAPonAIXandOracle/ed
 3. Additinally 2 more files like WORDS.exe and WORD.TXT are created.
 
 - ** Remove g++ compile step after first run ** 
-- ** ONLY remove/comment this line from 3-RunMe.cmd file AFTER you have 1 SUCCESSFUL run of 3-RunMe.cmd **
-
-```batch script ahead
+- ** ONLY remove/comment this line from 3-RunMe.cmd file 
+     AFTER you have 1 SUCCESSFUL run of 3-RunMe.cmd **
 ```
 
 ```batch
