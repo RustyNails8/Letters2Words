@@ -12,12 +12,11 @@ void get( string str, string res ) {
 
 int main( int argc, char **argv) {
 
-   string str = "huidm" ;
-   // string str = "irxem" ;
-   // cout << "Enter your String:   ... " ;
-   // cin >> str ;
-   get( str, "" );  
-   return 0;
+    string myWORD ;
+	myWORD = argv[1] ;
+   	get( myWORD, "" ) ;
+
+   	return 0;
 }
 
 
