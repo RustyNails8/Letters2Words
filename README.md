@@ -23,10 +23,14 @@ I use the [editor on GitHub](https://github.com/RustyNails8/SAPonAIXandOracle/ed
 - ** Remove g++ compile step after first run ** 
 - ** ONLY remove/comment this line from 3-RunMe.cmd file AFTER you have 1 SUCCESSFUL run of 3-RunMe.cmd **
 
+```batch script ahead
+```
+
 ```batch
 REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
 g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
+
 ```
 
 - ** Above should be changed TO Below : **
