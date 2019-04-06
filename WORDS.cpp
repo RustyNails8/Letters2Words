@@ -1,6 +1,14 @@
 #include <string>
 #include <iostream>
+#include <fstream>
 using namespace std;
+
+
+/*void writeToFile(ofstream &outputFile, string x)
+{
+    outputFile << x << endl;
+}
+*/
 
 void get( string str, string res ) {
 
@@ -12,12 +20,14 @@ void get( string str, string res ) {
 
 int main( int argc, char **argv) {
 
-   string str = "huidm" ;
-   // string str = "irxem" ;
-   // cout << "Enter your String:   ... " ;
-   // cin >> str ;
-   get( str, "" );  
-   return 0;
+    // string str = "wtehi" ;
+    string myWORD ;
+    // cout << "Enter your String:   ... " ;
+    // cin >> myword ;
+	myWORD = argv[1] ;
+   	get( myWORD, "" ) ;
+
+   	return 0;
 }
 
 
