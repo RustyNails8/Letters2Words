@@ -7,23 +7,25 @@ I use the [editor on GitHub](https://github.com/RustyNails8/SAPonAIXandOracle/ed
 
 ```markdown
 # Letters2Words
-## Sumit Das
-### Created 2019 04 06
+# Sumit Das
+# Created 2019 04 06
 
 1. Run the 3-RunMe.cmd with the letters as arguments
 2. Your possible words would be displayed rightaway
 3. Additinally 2 more files like WORDS.exe and WORD.TXT are created.
 
-- **Remove g++ compile step after first run** 
-- **ONLY remove/comment this line from 3-RunMe.cmd file AFTER you have 1 SUCCESSFUL run of 3-RunMe.cmd**
+- ** Remove g++ compile step after first run ** 
+- ** ONLY remove/comment this line from 3-RunMe.cmd file AFTER you have 1 SUCCESSFUL run of 3-RunMe.cmd **
 
-`REM Complie your CPP program
+`
+REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
 g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
 `
-** Above should be changed TO Below : **
+- ** Above should be changed TO Below : **
 
-`REM Complie your CPP program
+`
+REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
 REM g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
 `
