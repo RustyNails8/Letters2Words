@@ -12,7 +12,8 @@ for i in range(0,len(lines)):
 	if lines[i]:
 		myCHECK = D.check(lines[i])
 		if myCHECK:
-			print(lines[i])
-			D.suggest(lines[i])
+			if len(lines[i]) > 2:
+				print(lines[i])
+				D.suggest(lines[i])
 
 f.close()
