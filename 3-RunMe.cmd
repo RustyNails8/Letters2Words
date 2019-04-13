@@ -1,7 +1,6 @@
-@echo off
-
-REM Sumit Das
-REM 2019-04-06
+# REM Sumit Das
+B
+# REM 2019-04-06
 
 REM REM your path to master    cd C:\Users\in10c2\Documents\MEGAsync\Letters2Words
 REM Provide the series of letters without any space
