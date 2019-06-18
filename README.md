@@ -1,5 +1,5 @@
 # Letters2Words
-For a set of letters, find all possible Words
+For a set of letters, find all possible Words - Created for MOU
 
 ## Welcome to SD Projects
 
