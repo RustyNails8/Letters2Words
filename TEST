@@ -1,29 +1,15 @@
-total 11062213
-drwxr-xr-x 1 IN10C2 1049089          0 Dec  7  2019 PerfLogs
-lrwxrwxrwx 1 IN10C2 1049089          8 Mar 21 18:14 Documents and Settings -> /c/Users
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 21 18:14 Recovery
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 24 11:30 Python27
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 24 11:53 Python310
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 25 01:41 Users
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 25 01:42 $Recycle.Bin
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 27 02:57 msys64
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 27 02:57 home
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 27 02:57 instantclient_12_2
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 27 03:02 tools
-drwxr-xr-x 1 IN10C2 1049089          0 Mar 28 18:08 config
-drwxr-xr-x 1 IN10C2 1049089          0 Apr  2 00:03 instantclient_21_3
-drwxr-xr-x 1 IN10C2 1049089          0 Apr  2 23:06 squirrel-sql
-drwxr-xr-x 1 IN10C2 1049089          0 Apr 28 21:27 OneDriveTemp
-drwxr-xr-x 1 IN10C2 1049089          0 May  4 10:01 System Volume Information
--rw-r--r-- 1 IN10C2 1049089        112 May  4 17:53 bootTel.dat
--rw-r--r-- 1 IN10C2 1049089       8192 May 18 12:53 DumpStack.log
-drwxr-xr-x 1 IN10C2 1049089          0 Jun  3 10:04 Program Files (x86)
-drwxr-xr-x 1 IN10C2 1049089          0 Jun 16 20:25 cygwin64
-drwxr-xr-x 1 IN10C2 1049089          0 Jun 25 11:43 Program Files
-drwxr-xr-x 1 IN10C2 1049089          0 Jun 28 09:42 Windows
--rw-r--r-- 1 IN10C2 1049089 6747398144 Jul  1 08:48 hiberfil.sys
--rw-r--r-- 1 IN10C2 1049089   16777216 Jul  1 08:48 swapfile.sys
--rw-r--r-- 1 IN10C2 1049089 4563402752 Jul  1 08:48 pagefile.sys
--rw-r--r-- 1 IN10C2 1049089       8192 Jul  1 08:48 DumpStack.log.tmp
-drwxr-xr-x 1 IN10C2 1049089          0 Jul  1 08:48 Intel
-drwxr-xr-x 1 IN10C2 1049089          0 Jul  1 08:52 ProgramData
+total 575
+drwxr-xr-x 1 IN10C2 1049089      0 Feb  3 23:01 lib
+drwxr-xr-x 1 IN10C2 1049089      0 Feb  3 23:01 usr
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 14 09:10 bin
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 24 11:41 sbin
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 24 11:43 dev
+-rw-r--r-- 1 IN10C2 1049089     88 Mar 24 11:43 Cygwin.bat
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 24 11:43 var
+-rw-r--r-- 1 IN10C2 1049089 157097 Mar 24 11:45 Cygwin.ico
+-rw-r--r-- 1 IN10C2 1049089  53342 Mar 24 11:45 Cygwin-Terminal.ico
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 26 15:42 home
+drwxr-xr-x 1 IN10C2 1049089      0 Mar 26 17:49 etc
+-rw-r--r-- 1 IN10C2 1049089     94 Jun 16 20:25 CygwinFish.bat
+-rw-r--r-- 1 IN10C2 1049089     93 Jun 16 20:25 CygwinZsh.bat
+drwxr-xr-x 1 IN10C2 1049089      0 Jul  1 09:23 tmp
