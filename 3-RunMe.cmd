@@ -9,6 +9,8 @@ REM Provide the series of letters without any space
 REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
 REM g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
+REM Support for clang
+REM clang 1-MakeWordList4mLetters.cpp -o WORDS.exe
 
 REM Run the compiled CCP program to get list of works
 WORDS.exe %1 > WORDS.TXT
