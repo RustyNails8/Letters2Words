@@ -6,10 +6,12 @@ REM 2019-04-06
 REM REM your path to master    cd C:\Users\in10c2\Documents\MEGAsync\Letters2Words
 REM Provide the series of letters without any space
 
+REM TODO Rewrite this portion in python and remove C++ depndency
 REM Complie your CPP program
 REM You can remove this once the WORDS.exe file is created
+REM Support for g++ complier
 REM g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
-REM Support for clang
+REM Support for clang complier
 clang 1-MakeWordList4mLetters.cpp -o WORDS.exe
 
 REM Run the compiled CCP program to get list of works
