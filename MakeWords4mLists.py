@@ -5,9 +5,16 @@ from textblob import Word
 import sys
 
 try:
-	LENGTH=sys.argv[1]
+	myWORD=sys.argv[1]
+	myLetters=list(myWORD)
+	LENGTH=sys.argv[2]
+	# print("My Words is : " + str(myWORD) + " and Number of letters is " + str(LENGTH))
+	# print(myLetters)
 except:
 	LENGTH=0
+
+def has_all(chars, string):
+    return all([char in string for char in chars])
 
 with open('WORDS.TXT') as f:
     lines = f.read().splitlines()
@@ -23,6 +30,10 @@ for i in range(0,len(lines)):
 					print(result[0][0])
 				else:
 					if len(result[0][0]) == int(LENGTH) :
-						print(result[0][0])
-				
+						newWord=result[0][0]
+						# print(has_all(newWord, myLetters))
+						if (has_all(newWord, myLetters)):
+							# print(result[0][0])
+							print(newWord)
+			
 f.close()

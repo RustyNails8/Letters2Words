@@ -1,11 +1,13 @@
 # Letters2Words
+
 For a set of letters, find all possible Words - Created for MOU
 
 ## Welcome to SD Projects
 
 I use the [editor on GitHub](https://github.com/RustyNails8/SAPonAIXandOracle/edit/master/README.md) to maintain and preview the content for your website in Markdown files. Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## PreRequisites:
+## PreRequisites
+
 1. CPP complier g++. Get from [HERE](https://filehippo.com/download_dev-c/)
 2. Python Interpreter version 3.7. Get from [HERE](https://www.python.org/)
 3. Install the enchant Python PyPi Package. Get from [HERE](https://pypi.org/project/pyenchant/)
@@ -32,7 +34,7 @@ g++ 1-MakeWordList4mLetters.cpp -o WORDS.exe
 
 ```
 
-- ** Above should be changed TO Below : **
+- **Above should be changed TO Below :**
 
 ```batch
 REM Complie your CPP program
